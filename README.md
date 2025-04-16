@@ -1,6 +1,6 @@
 Finally, after 2 days of mindlessly making mistakes for the assets and files, I made my first custom controller overlay
 
-BIG BIG Shoutout to hunterx360 and jayraydee on discord, they were massive help in this little mini project
+BIG BIG Shoutout to hunterxd360 and jayraydee on discord, they were massive help in this little mini project
 
 link for controller:
 
