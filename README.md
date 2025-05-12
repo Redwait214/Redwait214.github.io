@@ -5,3 +5,5 @@ BIG BIG Shoutout to hunterxd360 and jayraydee on discord, they were massive help
 link for controller:
 
 https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Fredwait214.github.io%2FPs4%20Assets%2FPNG%2FPS4.css
+
+Second of all, I made a grey controller thats actually white because the 'white' one on GPV website is red, gonna make an actual white one that's not grey soon though, link below:
