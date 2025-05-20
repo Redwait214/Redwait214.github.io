@@ -7,3 +7,7 @@ link for controller:
 https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Fredwait214.github.io%2FPs4%20Assets%2FPNG%2FPS4.css
 
 Second of all, I made a grey controller thats actually white because the 'white' one on GPV website is red, gonna make an actual white one that's not grey soon though, link below:
+
+Third of all, custom made xbox controllers for people from the GPV discord will be here soon, so wait for that!
+
+4th of all, i have a white ps5 overlay from hunterxd360 so feel free to use that as a base for your custom ps5 controllers!
