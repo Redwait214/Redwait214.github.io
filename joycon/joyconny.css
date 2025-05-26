@@ -58,22 +58,25 @@ opacity:1;
     width: 400px;
     position: absolute;
     background-repeat:no-repeat;
+    top: 114px;
+    left: 162px;
 }
 
 .custom .stick {
     background-image: url(sticks_rewritten.png);
-    height: 35px;
-    width: 26px;
+    height: 100px;
+    width: 96px;
     position: absolute;
     background-repeat:no-repeat;
     opacity:1;
 }
 
 .custom .stick.right {
-    background-image: url(sticks_rewritten.png);
-    position: absolute;
-    background-repeat:no-repeat;
-    opacity:1;
+    left: 356px;
+    top: 150px;
+
+
+
 }
 
 .custom .stick.left {
