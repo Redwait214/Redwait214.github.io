@@ -74,9 +74,6 @@ opacity:1;
 .custom .stick.right {
     left: 356px;
     top: 150px;
-
-
-
 }
 
 .custom .stick.left {
@@ -84,6 +81,16 @@ opacity:1;
     position: absolute;
     background-repeat:no-repeat;
     opacity:1; 
+}
+
+.custom .stick.pressed.left {
+background-position-x: -96px;    
+
+}
+
+.custom .stick.pressed.right {
+    background-position-x: -192px;
+
 }
     
 .custom .face {
