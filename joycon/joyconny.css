@@ -1,41 +1,93 @@
 /*BEGIN PS4 White Controller Styling*/
-.controller.ds4.white {
+.controller.custom {
     background-image: url(base-switch-pb.png);
+    height: 598px;
+    width: 806px;
 }
 
-.ds4.white.disconnected {
+.custom .disconnected {
     background: url(disconnected-switch-pb.png);
+    height: 598px;
+    width: 806px;
 }
 
-.ds4.white .trigger {
+.custom .trigger {
     background-image: url(triggers.png);
+    height: 598px;
+    width: 806px;
+    position: absolute;
+    background-repeat:no-repeat;
 }
 
-.ds4.white .bumper {
+.custom .bumper {
     background-image: url(bumper.png);
+    height: 598px;
+    width: 806px;
+    position: absolute;
+    background-repeat:no-repeat;
+    opacity:0;
 }
 
-.ds4.white .touchpad.pressed {
+.custom .bumper.right {
+    left: 500px;
+    top: 1px;
+}
+
+.custom .bumper.left {
+ left: 150px;
+}
+
+.custom .bumper.pressed {
+opacity:1;
+}
+
+.custom .touchpad.pressed {
     background-image: url(touchpad.png);
 }
 
-.ds4.white .back, .ds4 .start {
+.custom .start {
     background-image: url(plus-switch-pb.png);
 }
 
-.ds4.white .button {
+ .custom {
     background-image: url(face.png);
 }
 
-.ds4.white .stick {
-    background-image: url(sticks_rewritten.png);
+.custom .sticks {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    background-repeat:no-repeat;
 }
 
-.ds4.white .face {
+.custom .stick {
+    background-image: url(sticks_rewritten.png);
+    height: 35px;
+    width: 26px;
+    position: absolute;
+    background-repeat:no-repeat;
+    opacity:1;
+}
+
+.custom .stick.right {
+    background-image: url(sticks_rewritten.png);
+    position: absolute;
+    background-repeat:no-repeat;
+    opacity:1;
+}
+
+.custom .stick.left {
+    background-image: url(sticks_rewritten.png);
+    position: absolute;
+    background-repeat:no-repeat;
+    opacity:1; 
+}
+    
+.custom .face {
     background-image: url(dpad_grey.png);
 }
 
-.ds4.white .meta.pressed{
+.custom .meta.pressed{
     background-image: url(meta.png);
 }
 
