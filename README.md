@@ -15,10 +15,13 @@ Third of all, custom made xbox controllers for people from the GPV discord will 
 Pink xbox
 https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2Fredwait214.github.io%2Fxbox_pink%2Fpink.css
 
-WIP/Pink and Gold
-https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2Fredwait214.github.io%2Fxbox_pg%2Fblahblah.css
+Light pink and gold (commissioned work)
+https://gamepadviewer.com/?p=1&s=0&editcss=https%3A%2F%2Fredwait214.github.io%2Fxbox_pg%2Fblahblah.css
 
 4th of all, i have a white ps5 overlay from hunterxd360 so feel free to use that as a base for your custom ps5 controllers!
 
 https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fredwait214.github.io%2FPs5_Overlay%2FBasicPs5.css
+
+5th blue ps5 controller
+
 
