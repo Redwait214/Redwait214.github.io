@@ -22,7 +22,10 @@ https://gamepadviewer.com/?p=1&s=0&editcss=https%3A%2F%2Fredwait214.github.io%2F
 
 https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fredwait214.github.io%2FPs5_Overlay%2FBasicPs5.css
 
-5th blue ps5 controller
+5th of all, here's a blue ps5 controller
 https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fredwait214.github.io%2Fbluey%2Fhotdog.css
+
+6th of all, a wip of free joy cons (once this is finished, dm me on discord for any color combos you want, it will be free!-discord: .redwait.)
+https://gamepadviewer.com/?p=1&css=https%3A%2F%2Fredwait214.github.io%2Fjoycon%2Fjoyconny.css
 
 
